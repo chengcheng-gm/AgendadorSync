@@ -14,8 +14,8 @@
         "description": "",
         "priority": "M\u00e9dia",
         "timeInMillis": 1788835157107,
-        "isCompleted": false,
-        "isHistory": false
+        "isCompleted": true,
+        "isHistory": true
     },
     {
         "id": "cb951251-71fb-41e5-8714-045a9b1b101e",
