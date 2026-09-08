@@ -3,7 +3,7 @@
         "id": "f3f8a1bf-4df6-4455-98ba-b33c23d30394",
         "title": "teste",
         "description": "este",
-        "priority": "Média",
+        "priority": "M\u00e9dia",
         "timeInMillis": 1788826460763,
         "isCompleted": false,
         "isHistory": false
@@ -12,7 +12,7 @@
         "id": "e51ac1f5-fb7e-4a87-933e-37fc75a31e89",
         "title": "tst1",
         "description": "",
-        "priority": "Média",
+        "priority": "M\u00e9dia",
         "timeInMillis": 1788835157107,
         "isCompleted": false,
         "isHistory": false
@@ -21,7 +21,7 @@
         "id": "cb951251-71fb-41e5-8714-045a9b1b101e",
         "title": "tst2",
         "description": "",
-        "priority": "Média",
+        "priority": "M\u00e9dia",
         "timeInMillis": 1788835219268,
         "isCompleted": false,
         "isHistory": false
