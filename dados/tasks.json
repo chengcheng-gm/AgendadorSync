@@ -23,7 +23,7 @@
         "description": "",
         "priority": "M\u00e9dia",
         "timeInMillis": 1788835219268,
-        "isCompleted": false,
-        "isHistory": false
+        "isCompleted": true,
+        "isHistory": true
     }
 ]
