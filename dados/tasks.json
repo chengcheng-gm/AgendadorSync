@@ -27,15 +27,6 @@
         "isHistory": true
     },
     {
-        "id": "be728208-8346-498b-8472-30bf28031895",
-        "title": "teste4",
-        "description": "",
-        "priority": "M\u00e9dia",
-        "timeInMillis": 1788837438790,
-        "isCompleted": false,
-        "isHistory": false
-    },
-    {
         "id": "63ab14d9-4b16-43a9-9caf-7c78c94c3d23",
         "title": "teste3",
         "description": "",
@@ -43,5 +34,14 @@
         "timeInMillis": 1788837483347,
         "isCompleted": true,
         "isHistory": true
+    },
+    {
+        "id": "be728208-8346-498b-8472-30bf28031895",
+        "title": "teste4",
+        "description": "",
+        "priority": "M\u00e9dia",
+        "timeInMillis": 1788837438790,
+        "isCompleted": false,
+        "isHistory": false
     }
 ]
