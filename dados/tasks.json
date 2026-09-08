@@ -5,8 +5,8 @@
         "description": "este",
         "priority": "Média",
         "timeInMillis": 1788826460763,
-        "isCompleted": false,
-        "isHistory": false
+        "isCompleted": true,
+        "isHistory": true
     },
     {
         "id": "e51ac1f5-fb7e-4a87-933e-37fc75a31e89",
@@ -41,7 +41,7 @@
         "description": "",
         "priority": "Média",
         "timeInMillis": 1788837483347,
-        "isCompleted": true,
-        "isHistory": true
+        "isCompleted": false,
+        "isHistory": false
     }
 ]
