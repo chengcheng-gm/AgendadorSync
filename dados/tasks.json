@@ -41,7 +41,7 @@
         "description": "",
         "priority": "Média",
         "timeInMillis": 1788837483347,
-        "isCompleted": false,
+        "isCompleted": true,
         "isHistory": false
     }
 ]
