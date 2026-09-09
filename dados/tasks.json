@@ -41,7 +41,7 @@
         "description": "",
         "priority": "Alta",
         "timeInMillis": 1788837438790,
-        "isCompleted": false,
-        "isHistory": false
+        "isCompleted": true,
+        "isHistory": true
     }
 ]
