@@ -43,5 +43,14 @@
         "timeInMillis": 1788837438790,
         "isCompleted": true,
         "isHistory": true
+    },
+    {
+        "id": "93c1aec6-719a-4a01-bc9d-bb77fc9888a3",
+        "title": "Eclesiastes 8:8",
+        "description": "'Ningu\u00e9m tem poder sobre o esp\u00edrito, para o reter, tampouco sobre o dia da morte'",
+        "priority": "Alta",
+        "timeInMillis": 1788984533246,
+        "isCompleted": false,
+        "isHistory": false
     }
 ]
